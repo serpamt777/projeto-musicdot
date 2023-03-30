@@ -53,8 +53,8 @@ cabeçalho__menu{
 
 @media(min-width:1066px){
     .cabeçalho{
-        padding-left: calc((100% - 960px)/2;
-        padding-right: calc((100% - 960px)/2;
+        padding-left: calc(100% - 960px)/2;
+        padding-right: calc(100% - 960px)/2;
     }
 }
 

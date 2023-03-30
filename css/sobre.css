@@ -113,7 +113,7 @@ figure img {
 
 }
 
-+@media (max-width: 446px) {
+@media (max-width: 446px) {
 
   .contato__subtitulo {
     display: block;
@@ -134,7 +134,7 @@ figure img {
 
 }
 
-+@media (max-width: 342px) {
+@media (max-width: 342px) {
 
   .contato__info-descricao {
     display: block;

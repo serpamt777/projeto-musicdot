@@ -1,0 +1,40 @@
+.cabeçalho{
+    text-align: center;
+    font-size: 0.6rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.23em;
+    background-color: #2d5377;
+    color: #fff;
+}
+
+.cabeçalho__logo{
+    padding: 1.5em 0;
+    width: 14.5em;
+}
+
+cabeçalho__menu{
+    background-color: #272b3a87;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.cabeçalho__item-menu{
+    display: inline-block;
+    padding: 1.86em 1.42em;
+}
+
+@media(min-width:640px){
+    .cabeçalho
+    padding: 0 5%;
+    display: flex: ;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabeçalho__logo{
+    padding: 2.5em ;
+}
+
+
+
